@@ -1,10 +1,9 @@
-## Simple Rhythm Game
-- This is a game about clicking on the beat
+## Simple Rhythm Gam
+-This is a game about clicking on the beat
 
-- My pair created this game just for fun
+-My pair created this game just for fun
 
-- This game teaches rhythm
+-This game teaches rhythm
 
 ## Tips and Tricks
-manip through stream maps
-
+- train every skillset
