@@ -4,8 +4,3 @@
 -My pair created this game just for fun
 
 -This game teaches rhythm
-
-## Tips and Tricks
-
-## Helpful Learning Resources
-you click
